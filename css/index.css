@@ -24,3 +24,10 @@ canvas{
 	position: absolute;
 	top: 500px;
 }
+.message{
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 30px;
+	left: 500px;
+}
